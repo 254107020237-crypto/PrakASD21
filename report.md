@@ -18,7 +18,7 @@ Solusi dari penerapan di Pemilihan.java, dan dibawah ini adalah gambar dari hasi
 
 Solusi dari penerapan di Perulangan.java, dan dibawah ini adalah gambar dari hasilnya
 
-![Screenshot](image/perulangan.png)
+![Screenshot](image/Perulangan.png)
 
 ## 1.3. Solusi Array
 
